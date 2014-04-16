@@ -5,7 +5,7 @@ var path = require('path'),
 
 module.exports = {
 	app: {
-		title: 'MEAN.JS',
+		title: 'CODEDU',
 		description: 'Full-Stack JavaScript with MongoDB, Express, AngularJS, and Node.js',
 		keywords: 'mongodb, express, angularjs, node.js, mongoose, passport'
 	},
