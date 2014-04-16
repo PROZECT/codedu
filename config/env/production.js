@@ -3,8 +3,8 @@
 module.exports = {
     db: process.env.MONGOHQ_URL || process.env.MONGOLAB_URI || 'mongodb://localhost/mean',
 	facebook: {
-		clientID: '233007506908098',
-		clientSecret: 'eec74d0a36455a6361dfc8510f900477',
+		clientID: '229144610618453',
+		clientSecret: '84eee6178e86fe1dbac18e53da75baf9',
 		callbackURL: 'http://localhost/auth/facebook/callback'
 	},
 	twitter: {
