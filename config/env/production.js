@@ -5,7 +5,7 @@ module.exports = {
 	facebook: {
 		clientID: '229144610618453',
 		clientSecret: '84eee6178e86fe1dbac18e53da75baf9',
-		callbackURL: 'http://localhost/auth/facebook/callback'
+		callbackURL: 'http://programer.io/auth/facebook/callback'
 	},
 	twitter: {
 		clientID: 'CONSUMER_KEY',
