@@ -6,8 +6,8 @@ module.exports = {
 		title: 'MEAN.JS - Development Environment'
 	},
 	facebook: {
-		clientID: 'APP_ID',
-		clientSecret: 'APP_SECRET',
+		clientID: '233007506908098',
+		clientSecret: 'eec74d0a36455a6361dfc8510f900477',
 		callbackURL: 'http://localhost:3000/auth/facebook/callback'
 	},
 	twitter: {
